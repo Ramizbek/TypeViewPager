@@ -1,0 +1,25 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Homework 19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="homework_1_2">Homework 1_2</string>
+
+    <string name="homework_3">Homework 3</string>
+
+    <string name="homework_4">Homework 4</string>
+
+    <string name="xush_kelibsiz">Xush kelibsiz</string>
+
+    <string name="o_tkazib_yuborish">O’tkazib yuborish</string>
+
+    <string name="keyingisi">Keyingisi</string>
+
+    <string name="click_va_paymega_o_tish_xizmati">Click va Paymega o\'tish xizmati</string>
+
+    <string name="info">info</string>
+
+    <string name="ro_yxatdan_o_tish">Ro\'yxatdan o\'tish</string>
+</resources>
